@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about software quality engineering and systems engineering
 📫 How to reach me: douglasmartinssantos7@gmail.com  
 https://www.linkedin.com/in/douglasmartinssantos/
-- ⚡ Fun fact: I take Karate classes during the week.
+- ⚡ Fun fact: I take Karate classes during the week.  
 🦖 VRaptor Community:  
 YouTube Channel: https://www.youtube.com/@VRaptorCode  
 Blog: https://vraptorcode.medium.com/  
