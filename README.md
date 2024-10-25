@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about software quality engineering and systems engineering
 - 📫 How to reach me: 
 douglasmartinssantos7@gmail.com
-<br>
 https://www.linkedin.com/in/douglasmartinssantos/
 - ⚡ Fun fact: I take Karate classes during the week.
 - 🦖 VRatpor Community:
