@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I have experience working with large companies as a software quality engineer, and I am working on projects for the VRaptor Code community that I created, and aims to help people start their careers in technology. Languages ​​we use: Java, Kotlin, JavaScript, Ruby
+- 🔭 I have experience working with large companies as a software quality engineer, and I am working on projects for the VRaptor Code community that I created, and aims to help people start their careers in technology.
 - 💬 Ask me about software quality engineering and systems engineering    
 - 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmartinssantos/)
