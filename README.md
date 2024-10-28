@@ -5,6 +5,7 @@
 - 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasmartinssantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasmartinssantos7@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-Siga_me-%231DA1F2?logo=twitter&logoColor=white)](https://x.com/douglinki)
 - ⚡ Fun fact: I take Karate classes during the week.    
 - 🦖 VRaptor Community:  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vraptorcode.medium.com/)
