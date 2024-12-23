@@ -15,24 +15,25 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+rpfh6Hv38wszNzMx)
 <div style="display: flex; align-items: center; gap: 0;">
   <a href="https://www.java.com/pt-BR/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="vertical-align: middle;" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="vertical-align: middle;" />
   </a>
   <a href="https://nodejs.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="vertical-align: middle;" />
   </a>
   <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" style="vertical-align: middle;" />
   </a>
   <a href="https://www.ruby-lang.org/pt/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" style="vertical-align: middle;" />
   </a>
   <a href="https://www.python.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="vertical-align: middle;" />
   </a>
 </div>
+
 
 
 
