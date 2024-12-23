@@ -1,10 +1,3 @@
-<style>
-  a {
-    text-decoration: none !important;
-    border: none !important;
-  }
-</style>
-
 ## Hi there 👋
 
 - 🔭 I have experience working with large companies as a software quality engineer, and I am working on projects for the VRaptor Code community that I created, and aims to help people start their careers in technology.
