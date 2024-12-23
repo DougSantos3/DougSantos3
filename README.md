@@ -13,7 +13,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vraptorcode.medium.com/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/douglasmartins7)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+rpfh6Hv38wszNzMx)
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; gap: 0;">
   <a href="https://www.java.com/pt-BR/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   </a>
@@ -33,6 +33,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a>
 </div>
+
+
 
 
 
